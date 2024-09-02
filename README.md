@@ -14,7 +14,9 @@
 -    ✅ [Libft](https://github.com/LBirlouet/Libft42)
 -    ✅ [ft_printf](https://github.com/LBirlouet/Ft_printf_42) / [get_next_line](https://github.com/LBirlouet/gnl42) / Born2beroot
 -    ✅ [push_swap](https://github.com/LBirlouet/push_swap) / [pipex](https://github.com/LBirlouet/pipex42_19) / [so_long](https://github.com/LBirlouet/so_long42)
--    ✅ [Philosophers](https://github.com/LBirlouet/Philosophers_42) / [minishell] / [NetPractice]
+-    ✅ [Philosophers](https://github.com/LBirlouet/Philosophers_42) / minishell / NetPractice
+-       [Cub3D]
+-    
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=c,vscode,linux,github,git)](https://skillicons.dev)
