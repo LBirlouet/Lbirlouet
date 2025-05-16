@@ -17,7 +17,6 @@
 -    ✅ [Philosophers](https://github.com/LBirlouet/Philosophers_42) / [minishell]( https://github.com/vicire1/19_minishell)
 -    ✅ [cub3D](https://github.com/vicire1/42_Cub3D) / [cpp_00-04](https://github.com/LBirlouet/42_cpp)/ NetPractice
 -    ✍️ Webserv / [cpp_05-09](https://github.com/LBirlouet/42_cpp)/ Inception
-- 
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=c,vscode,linux,github,git,html,css)](https://skillicons.dev)
