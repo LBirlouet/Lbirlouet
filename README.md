@@ -15,7 +15,7 @@
 -    ✅ [ft_printf](https://github.com/LBirlouet/Ft_printf_42) / [get_next_line](https://github.com/LBirlouet/gnl42) / Born2beroot
 -    ✅ [push_swap](https://github.com/LBirlouet/push_swap) / [pipex](https://github.com/LBirlouet/pipex42_19) / [so_long](https://github.com/LBirlouet/so_long42)
 -    ✅ [[Philosophers](https://github.com/LBirlouet/Philosophers_42)] / [[minishell]( https://github.com/vicire1/19_minishell)]
--    ✍️ [cub3D](https://github.com/vicire1/42_Cub3D) / [cpp_00-04](https://github.com/LBirlouet/42_cpp)/ NetPractice
+-    ✅ [cub3D](https://github.com/vicire1/42_Cub3D) / [cpp_00-04](https://github.com/LBirlouet/42_cpp)/ NetPractice
 -    ✍️ Webserv / [cpp_05-09](https://github.com/LBirlouet/42_cpp)/ Inception
 - 
 <hr>
